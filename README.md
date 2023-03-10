@@ -1,1 +1,1 @@
-
+Low cost embedded system for providing audio and visual crash warnings. Also provides a dashboard graphical UI for driving behavior monitoring. This was me end of year project for a robotics course I took in high school.
